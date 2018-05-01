@@ -1,0 +1,9 @@
+c:\users\v\documents\visual studio 2015\Projects\sinavHesaplamalari\sinavHesaplamalari\bin\Debug\sinavHesaplamalari.exe.config
+c:\users\v\documents\visual studio 2015\Projects\sinavHesaplamalari\sinavHesaplamalari\bin\Debug\sinavHesaplamalari.exe
+c:\users\v\documents\visual studio 2015\Projects\sinavHesaplamalari\sinavHesaplamalari\bin\Debug\sinavHesaplamalari.pdb
+c:\users\v\documents\visual studio 2015\Projects\sinavHesaplamalari\sinavHesaplamalari\obj\Debug\sinavHesaplamalari.csprojResolveAssemblyReference.cache
+c:\users\v\documents\visual studio 2015\Projects\sinavHesaplamalari\sinavHesaplamalari\obj\Debug\sinavHesaplamalari.Form1.resources
+c:\users\v\documents\visual studio 2015\Projects\sinavHesaplamalari\sinavHesaplamalari\obj\Debug\sinavHesaplamalari.Properties.Resources.resources
+c:\users\v\documents\visual studio 2015\Projects\sinavHesaplamalari\sinavHesaplamalari\obj\Debug\sinavHesaplamalari.csproj.GenerateResource.Cache
+c:\users\v\documents\visual studio 2015\Projects\sinavHesaplamalari\sinavHesaplamalari\obj\Debug\sinavHesaplamalari.exe
+c:\users\v\documents\visual studio 2015\Projects\sinavHesaplamalari\sinavHesaplamalari\obj\Debug\sinavHesaplamalari.pdb
